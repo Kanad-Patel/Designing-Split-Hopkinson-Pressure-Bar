@@ -25,9 +25,9 @@ This repository contains the following sections:
 
 | Folder/File           | Description                                                                                                                                       |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| `/SHPB_Drawings`       | Contains all CAD drawings for individual components and the final assembly.                                                                     |                                  
-| `/Analysis`           | Includes the Ansys analysis of the static structure of the SHPB.                                                                                 |
-| `/Documentation`      | Comprehensive project report covering the design process, manufacturing, quality control, and testing.                                           |
+| `SHPB_Drawings`       | Contains all CAD drawings for individual components and the final assembly.                                                                     |                                  
+| `Analysis`           | Includes the Ansys analysis of the static structure of the SHPB.                                                                                 |
+| `/Final_Report`      | Comprehensive project report covering the design process, manufacturing, quality control, and testing.                                           |
 
 ---
 
