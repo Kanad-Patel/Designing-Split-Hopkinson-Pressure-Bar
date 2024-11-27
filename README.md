@@ -25,11 +25,8 @@ This repository contains the following sections:
 
 | Folder/File           | Description                                                                                                                                       |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| `/CAD Drawings`       | Contains all CAD drawings for individual components and the final assembly.                                                                     |
-| `/Manufacturing`      | Detailed manufacturing steps, including machining techniques, tolerances, and material details for each part.                                    |
-| `/Quality Control`    | Inspection reports and tolerance analyses for manufactured components.                                                                           |
-| `/Assembly`           | Step-by-step assembly instructions with images and references to CAD designs.                                                                    |
-| `/Analysis`           | Includes the analysis of manufacturing variations, their root causes, and mitigation steps to ensure SHPB performance.                           |
+| `/SHPB_Drawings`       | Contains all CAD drawings for individual components and the final assembly.                                                                     |                                  
+| `/Analysis`           | Includes the Ansys analysis of the static structure of the SHPB.                                                                                 |
 | `/Documentation`      | Comprehensive project report covering the design process, manufacturing, quality control, and testing.                                           |
 
 ---
