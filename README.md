@@ -26,7 +26,7 @@ This repository contains the following sections:
 | Folder/File           | Description                                                                                                                                       |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
 | `SHPB_Drawings`       | Contains all CAD drawings for individual components and the final assembly.                                                                     |                                                                                                 |
-| `/SHPB_Desing_File`      | Comprehensive project report covering the design process, manufacturing, quality control, and testing.                                           |
+| `/SHPB_Group_Design_File`      | Comprehensive project report covering the design process, manufacturing, quality control, and testing.                                           |
 
 ---
 
